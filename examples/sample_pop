@@ -1,0 +1,4792 @@
+[
+    {
+        "num_components": 2,
+        "arrival_time": [
+            47.67151836262215,
+            59.2696420461512
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1179027163291269,
+            1.126951088736532
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            47.11444667658886,
+            46.37312635654895,
+            47.84183206508605
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.979567225687777,
+            0.9257566100317155,
+            0.9984719178440553
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            54.07132643785796
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.081162858456268
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            76.32018217764085,
+            49.57910180831903
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.994724899924961,
+            0.8952471245401883
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            45.522897016137186,
+            39.30709958963854
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.869039684017186,
+            0.9504391029909668
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            59.48221118196417,
+            49.15323396284712,
+            48.648816537712484
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9851210264761967,
+            1.0201560230323155,
+            1.174952507855974
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            48.70847228517669,
+            47.435146029684496
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9371014373121612,
+            1.0960873965816664
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            49.127594883239006
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.9097023411899339
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            42.105895371235306,
+            51.91773532078163
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0765083327483589,
+            0.9981184434303504
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            62.22845622897052,
+            42.41846600692699,
+            51.57666218919233
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9721264990636608,
+            0.8936267992491153,
+            0.9315733554948037
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            67.20131941464778,
+            52.11470597185075,
+            45.66747348226671
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8833985457911824,
+            1.0195966256488105,
+            1.0965095987663318
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            60.82128269375956
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.1846281553082643
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            47.86178037592881,
+            55.018441191405785,
+            53.1735132033144
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0418832827564157,
+            0.9315107041588118,
+            1.0753418495055636
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            63.98810518229049,
+            51.02112310881077,
+            56.84800269240114,
+            48.26500761354667
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8959200054038133,
+            0.8525630409143251,
+            0.960320461588081,
+            0.9726919263310175
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            49.570429859089444,
+            35.03080673161183
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9995098186783558,
+            1.020978625746187
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            37.28817899159936,
+            46.69091824474652
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.7962775469717076,
+            1.0751220846583465
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            50.78429909554687
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.9759185434428854
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            59.95880710188118,
+            40.663048734965294,
+            35.76043395141375
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9681110724865856,
+            0.9908426958488024,
+            0.9535514839531943
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            50.09647128262438
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0645629578175677
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            57.92118537875859,
+            40.17153593585123,
+            42.91532227743288
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8818690502350341,
+            1.0221027631873754,
+            0.9012097094040679
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            48.385331421772094,
+            59.33656124696326
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0952884799718063,
+            0.9413329786744995
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            56.82476742218573
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.932972223895029
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            52.70970856282469,
+            40.25375894708607,
+            57.98445376395334
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.919880497470531,
+            1.1361748752729306,
+            0.8144299194157394
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            63.92981466091342
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.8970878546388121
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            62.41307463014667
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.1133015578625907
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            43.365129062687885,
+            46.5047493834888,
+            53.402192176600245
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9494161679523238,
+            0.9401126285128559,
+            0.9826693368442299
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            35.92366245266904,
+            45.756492786725424,
+            48.51870214560013
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9807472859795211,
+            1.0801171326252843,
+            1.0930522995546237
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            53.306129785061444,
+            48.15155538508568,
+            30.125558402167275
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1077728818450279,
+            0.7975357759559969,
+            0.9784375476092813
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            28.6900479325864
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0345882097060461
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            44.93796259849218,
+            53.95533958131779,
+            40.2711172945579
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.155507183709987,
+            0.963742044201013,
+            0.923945410652695
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            54.520386097571254,
+            36.745741477091606
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9614292911426757,
+            0.8592945384809477
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            60.16284311434807,
+            42.28706667836783,
+            54.29435785014677
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.936784513648943,
+            1.1046953767375662,
+            0.9071085438772444
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            41.2453788963105,
+            70.18513411532842,
+            62.785947656773644
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0052691009363768,
+            1.0174623977319561,
+            0.8618124139119875
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            39.870548430172754,
+            52.59298871878825
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.861462649920125,
+            0.8661894235049423
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            40.949572165163914,
+            29.80848522610122,
+            35.09604436114333
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8635386766054344,
+            0.8414242410912468,
+            1.0138574137153455
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            58.321038768437745,
+            51.78321237037225,
+            43.738454360857055,
+            52.68745138196708
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0961198587760788,
+            1.0615757352184396,
+            1.0313626772316382,
+            1.1765739664327401
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            39.69362989303287,
+            42.499214716823325
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8604427620462755,
+            0.9598042050834523
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            62.54645929219606
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0750019812062943
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            48.26261975806913,
+            59.55140045914051
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8275490113407951,
+            0.9666882734013669
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            69.58003755592756,
+            49.54186215122432
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8599282005553129,
+            0.8249103738153679
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            64.16320618445239
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0315322295938547
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            45.454347888674135,
+            60.368966982597
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8864003610460074,
+            0.8720843170170841
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            50.200058362672486,
+            42.22504755264867
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8649409261103185,
+            0.9455592749496134
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            48.44828105320102
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0077191172763886
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            32.335517216868496,
+            42.54523265798777
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9577577213370452,
+            0.8794251389314052
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            61.426134849289056,
+            49.71247815562695
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8609581164630369,
+            1.1078810832162755
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            52.758141415809284
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.8793842021494587
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            38.25420253696805,
+            47.8772275592333,
+            49.44144467093781,
+            54.52288493561981
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8702631297752583,
+            0.9729389208752195,
+            0.9736811465496042,
+            0.9926291479137374
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            54.187280285444324,
+            24.571073586529046
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9609720420946747,
+            0.944338141597404
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            62.772439470414156,
+            56.591112841499,
+            54.3036134789459,
+            39.789452200110546
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8615758369696485,
+            0.8470430870602086,
+            1.0157274055561243,
+            1.0429699580262337
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            44.99696045041965,
+            57.57944706737655,
+            53.60379422654443
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9048856445059255,
+            1.1114383675977404,
+            0.8998681152872343
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            38.41396914435073
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0446358431585594
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            77.71283881428266
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.1216355742260764
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            53.26551381702034,
+            47.69966208109001,
+            40.935989712068455
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9542780072677516,
+            0.9493327491035322,
+            0.9388393979424642
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            59.37116735901243,
+            45.011352668248044,
+            43.74676099812031,
+            48.41189492691331
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0416581268442642,
+            1.0448472295532798,
+            0.961258153390993,
+            0.9657311508765462
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            33.18155057580513,
+            55.18433920283686,
+            55.70443376457845
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8003303579991704,
+            0.8999133182297867,
+            0.9920329456596527
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            36.62939823067198,
+            52.95519594775124,
+            44.042261596327315,
+            45.65799300334322
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0227482417478932,
+            0.9634198760810834,
+            0.9577433318440373,
+            1.0555187844144134
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            61.73595836262635,
+            38.584489722952256
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.7779825529555746,
+            1.129734497982537
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            23.02626802796562,
+            35.99967963255051,
+            46.47917392100318,
+            42.068532817591866
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0566521826250421,
+            1.0396595845373382,
+            0.9032848780996053,
+            1.0463635560652438
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            46.95136383133547,
+            48.983286018053285,
+            49.69227258832243
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8852697267240501,
+            0.9590884424401961,
+            0.9372182962877592
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            44.82007181832115,
+            43.84952403995997,
+            54.19249380207977,
+            51.80555383099448
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1248619477597126,
+            0.9802191122923727,
+            0.8895348068570474,
+            0.8666775791831214
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            62.34596306148441,
+            56.92949390471297
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9928290673404208,
+            1.0412594148570817
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            54.76125174688031,
+            54.00733105505214,
+            45.966649010068124,
+            48.42132748459028
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8728536161798319,
+            1.0188442102540254,
+            1.0561111728861505,
+            1.0845390674365463
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            51.71449702315912,
+            55.8589223474673
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.2191303851359137,
+            0.9727638918089465
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            26.63883138928016,
+            49.00754341667518,
+            29.53629464752439
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9189113928350202,
+            1.0917195261375132,
+            0.7987220539755856
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            44.03042047307957,
+            52.231567352194475
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0099675174508034,
+            1.0640348080496076
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            53.431793312672916,
+            63.23377929722449,
+            57.003147783859845,
+            71.52557867694657
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0913034697351265,
+            0.9496903763303497,
+            1.0199453915836467,
+            0.9611035467175439
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            63.135329559729186,
+            59.391555911160715,
+            66.63612816312258,
+            56.568339174379666
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0421848920100991,
+            1.1156716303818557,
+            0.8448460764053372,
+            0.9829944125751957
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            50.969361236372905,
+            40.80181092622238
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1423804772392119,
+            1.0553475746434
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            40.79727757324477,
+            37.11459662567859,
+            63.23421184925827,
+            68.49978328391882
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9922052744682747,
+            1.085611571872608,
+            1.2483532319599824,
+            0.8686213962529368
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            48.206985468464524,
+            44.37871993007954
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.952611838698414,
+            0.9299581868229487
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            65.23255728815249,
+            55.34405086832836
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1532299534760755,
+            1.0705956347040562
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            29.04183804022104,
+            41.57937435561554
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0338913981766453,
+            1.009454535725259
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            63.20584646773945,
+            59.11983870145881,
+            43.85360550187927,
+            46.29979178185789
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.075783031796987,
+            0.9031779805399184,
+            1.0173874556686942,
+            1.0097426131029907
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            42.425966205598364,
+            59.214013419957304,
+            40.238779856428145
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8391366717131623,
+            0.8830233028662375,
+            1.0208549684899582
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            50.79960463684029,
+            47.57371568892863,
+            54.10369359403483,
+            56.265661274728714
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9639471114872037,
+            0.9710071423973748,
+            1.2945940958283741,
+            0.8932090816969174
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            25.951813875471856,
+            33.46245328348246,
+            30.67201825279706
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.073302922735502,
+            1.0272852082373807,
+            1.0122100178409477
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            47.10882384098757,
+            32.059290639502066,
+            46.248126188357425,
+            39.65911821011821
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.863755610652009,
+            1.0696836989746201,
+            1.1174399601673022,
+            0.9141219732559551
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            38.65671877828318,
+            52.45140571129606
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0722700758930706,
+            1.0571281186587762
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            58.12781095489549
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.9985531992841185
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            58.14330836778309,
+            32.12967725445901,
+            53.52403235989828
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9454031619069949,
+            1.1107646570524308,
+            1.0153103297913544
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            55.34669540006006,
+            46.85381276945925,
+            51.683828518213154,
+            51.346012890085376
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1649560035082251,
+            1.0329918617473817,
+            1.2567926379175693,
+            1.0035647263620178
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            61.0247176373113
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.177185099818937
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            59.58030118311679
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.0295171230970503
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            54.44098558211199,
+            57.725635951650546,
+            42.10658520813719
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0867896134189694,
+            1.0753031191485372,
+            1.0401851968801201
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            61.872130210586676
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            0.9099971425234755
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            49.80870139636405,
+            58.67688689956427,
+            59.506050291588686,
+            62.76037736793547
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.2664033489659037,
+            0.8634000964043737,
+            0.8759941581573152,
+            1.0840642465502974
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            44.24687063057631,
+            46.66211321465341
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0760890439342996,
+            0.8748463590372482
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            49.3615963726874,
+            50.75830821511695
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0450950122584697,
+            0.8269614546761767
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            61.65262717219097,
+            53.73906836151687,
+            57.03094729246666
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9882691585280432,
+            1.0694018567135912,
+            1.031321704981521
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            46.33184426377624,
+            46.36107340853215,
+            55.19290316715869,
+            43.27504359670712
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.9994426541527297,
+            1.1581730557277647,
+            1.0232554592629908,
+            1.0426295397259302
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            60.4690523834146,
+            39.036450075746636,
+            44.126122155068614
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.133685172980469,
+            1.066895168392222,
+            0.9208573048100814
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 1,
+        "arrival_time": [
+            34.14879602722059
+        ],
+        "amplitude": [
+            1.0
+        ],
+        "burst_width": [
+            1.051835729060384
+        ],
+        "dm": [
+            450.0
+        ],
+        "dm_index": [
+            -2.0
+        ],
+        "ref_freq": [
+            600.0
+        ],
+        "scattering_index": [
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0
+        ],
+        "spectral_index": [
+            10.0
+        ],
+        "spectral_running": [
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            52.34786048349202,
+            52.72976945501161,
+            47.733936332937034,
+            60.9338925317432
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.067893700935737,
+            0.9102923162158656,
+            1.0289346885404702,
+            1.050315001980406
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            48.31831475409191,
+            47.622081414083276
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0369856573960357,
+            0.948035606069995
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 3,
+        "arrival_time": [
+            51.14438421047518,
+            60.48614750837689,
+            56.977493251282
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.1581254429335324,
+            0.8910604817036436,
+            0.9584326088130206
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            56.09266880878098,
+            55.62821011557824
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.0602785332732698,
+            1.0587055035122988
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            60.59157930029291,
+            58.96924804507966,
+            55.29453312588631,
+            61.97667835810353
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.131970034105922,
+            1.0183802540689155,
+            0.7783707803604907,
+            1.1247270519315864
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 2,
+        "arrival_time": [
+            43.68223440639354,
+            53.83643193342924
+        ],
+        "amplitude": [
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            0.8974053632198681,
+            1.0418878130412328
+        ],
+        "dm": [
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0
+        ]
+    },
+    {
+        "num_components": 4,
+        "arrival_time": [
+            58.87836754409756,
+            61.574345288917385,
+            55.800784168376346,
+            41.24192135854957
+        ],
+        "amplitude": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "burst_width": [
+            1.145583792930538,
+            0.9990939910926245,
+            0.9575763251698224,
+            0.8155345730139179
+        ],
+        "dm": [
+            450.0,
+            450.0,
+            450.0,
+            450.0
+        ],
+        "dm_index": [
+            -2.0,
+            -2.0,
+            -2.0,
+            -2.0
+        ],
+        "ref_freq": [
+            600.0,
+            600.0,
+            600.0,
+            600.0
+        ],
+        "scattering_index": [
+            1.0,
+            1.0,
+            1.0,
+            1.0
+        ],
+        "scattering_timescale": [
+            0.0,
+            0.0,
+            0.0,
+            0.0
+        ],
+        "spectral_index": [
+            10.0,
+            10.0,
+            10.0,
+            10.0
+        ],
+        "spectral_running": [
+            -100.0,
+            -100.0,
+            -100.0,
+            -100.0
+        ]
+    }
+]

@@ -1,4 +1,6 @@
 import numpy as np
+import json
+import os
 
 class MulticomponentPopulation:
     def __init__(self):
@@ -36,10 +38,12 @@ class MulticomponentPopulation:
         for event in events_dict_array:
             event = self._assign_arrival_time(event)
             event = self._assign_amplitude(event)
+            event = self._assign_burst_width(event)
             event = self._assign_dm(event)
+            event = self._assign_dm_index(event)
             event = self._assign_ref_freq(event)
-            event = self._assign_scat_index(event)
-            event = self._assign_scat_timescale(event)
+            event = self._assign_scattering_index(event)
+            event = self._assign_scattering_timescale(event)
             event = self._assign_spectral_index(event)
             event = self._assign_spectral_running(event)
 
@@ -56,7 +60,7 @@ class MulticomponentPopulation:
 
         events_dict_array = []
         for i in range(self.n_bursts):
-            event = {"num_components":components_array_all[i]}
+            event = {"num_components":int(components_array_all[i])}
             events_dict_array.append(event)
 
         return events_dict_array
@@ -72,7 +76,20 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["arrival_time"] = list(np.random.normal(loc = 0.5, scale = 0.1, size = num_components))
+        dict["arrival_time"] = list(np.random.normal(loc = 50., scale = 10., size = num_components))
+
+        return dict
+    
+    def _assign_burst_width(self, dict):
+        """
+        Assigns the arrival time using a gaussian about the center time (arbitrary)
+
+        returns:
+        - dict (dict): dict of event with arrival time(s).
+        """
+        num_components = dict["num_components"]
+
+        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1, scale = 0.1, size = num_components)))
 
         return dict
 
@@ -100,7 +117,20 @@ class MulticomponentPopulation:
 
         dict["dm"] = list(np.zeros(num_components) + 450)
 
-        return dict      
+        return dict   
+
+    def _assign_dm_index(self, dict):
+        """
+        Assigns the dm index to -2 for all components
+
+        returns:
+        - dict (dict): dict of event with dm(s).
+        """
+        num_components = dict["num_components"]
+
+        dict["dm_index"] = list(np.zeros(num_components) - 2.)
+
+        return dict     
 
     def _assign_ref_freq(self, dict):
         """
@@ -115,7 +145,7 @@ class MulticomponentPopulation:
 
         return dict      
 
-    def _assign_scat_index(self, dict):
+    def _assign_scattering_index(self, dict):
         """
         Assigns the scat_index to 1 for all components
 
@@ -124,11 +154,11 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["scat_index"] = list(np.zeros(num_components) + 1.)
+        dict["scattering_index"] = list(np.zeros(num_components) + 1.)
 
         return dict      
 
-    def _assign_scat_timescale(self, dict):
+    def _assign_scattering_timescale(self, dict):
         """
         Assigns the scat_timescale to 0 for all components
 
@@ -137,7 +167,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["scat_timescale"] = list(np.zeros(num_components))
+        dict["scattering_timescale"] = list(np.zeros(num_components))
 
         return dict     
 
@@ -166,3 +196,19 @@ class MulticomponentPopulation:
         dict["spectral_running"] = list(np.zeros(num_components) - 100.)
 
         return dict
+    
+    def write_to_json(self, events_dict_array, output_dir, filename):
+        """
+        Write the generated points dictionary to a JSON file.
+
+        Parameters:
+        - output_dir (str): Directory to save the output file.
+        - filename (str): Name of the output JSON file.
+        """
+        os.makedirs(output_dir, exist_ok=True)
+        output_filename = os.path.join(output_dir, filename)
+
+        with open(output_filename, 'w') as json_file:
+            json.dump(events_dict_array, json_file, indent=4)
+
+        print(f"Saved generated points to {output_filename}")

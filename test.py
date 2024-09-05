@@ -7,4 +7,6 @@ events = MultiPopulation.multicomponent_init()
 
 Multicomponentpopulation = MultiPopulation.build_multicomponent_pop(events)
 
+MultiPopulation.write_to_json(Multicomponentpopulation, "./examples", "sample_pop")
+
 print(Multicomponentpopulation)
