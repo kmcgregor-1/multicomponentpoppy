@@ -166,13 +166,3 @@ class MulticomponentPopulation:
         dict["spectral_running"] = list(np.zeros(num_components) - 100.)
 
         return dict
-
-MultiPopulation = MulticomponentPopulation()
-MultiPopulation.set_number_of_points(100)
-events = MultiPopulation.multicomponent_init()
-
-Multicomponentpopulation = MultiPopulation.build_multicomponent_pop(events)
-
-print(Multicomponentpopulation)
-
-
