@@ -76,7 +76,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["arrival_time"] = list(np.random.normal(loc = 50., scale = 10., size = num_components))
+        dict["arrival_time"] = list(np.random.normal(loc = 50., scale = 10., size = num_components).astype('float64'))
 
         return dict
     
@@ -89,7 +89,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1, scale = 0.1, size = num_components)))
+        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1., scale = 0.5, size = num_components)))
 
         return dict
 
@@ -115,7 +115,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["dm"] = list(np.zeros(num_components) + 450)
+        dict["dm"] = list(np.zeros(num_components) + 745.)
 
         return dict   
 
@@ -134,20 +134,20 @@ class MulticomponentPopulation:
 
     def _assign_ref_freq(self, dict):
         """
-        Assigns the ref_freq to 600 for all components
+        Assigns the ref_freq to a random integer between 400 and 800 MHz for all components
 
         returns:
         - dict (dict): dict of event with ref_freq(s).
         """
         num_components = dict["num_components"]
 
-        dict["ref_freq"] = list(np.zeros(num_components) + 600)
+        dict["ref_freq"] = list(np.random.randint(400,800,size=num_components).astype('float64'))
 
         return dict      
 
     def _assign_scattering_index(self, dict):
         """
-        Assigns the scat_index to 1 for all components
+        Assigns the scattering_index to 1 for all components
 
         returns:
         - dict (dict): dict of event with scat_index(s).
@@ -160,14 +160,14 @@ class MulticomponentPopulation:
 
     def _assign_scattering_timescale(self, dict):
         """
-        Assigns the scat_timescale to 0 for all components
+        Assigns the scattering_timescale to 0 for all components
 
         returns:
         - dict (dict): dict of event with scat_timescale(s).
         """
         num_components = dict["num_components"]
 
-        dict["scattering_timescale"] = list(np.zeros(num_components))
+        dict["scattering_timescale"] = list(np.abs(np.random.normal(loc = 1., scale = 1., size = num_components)))
 
         return dict     
 
@@ -186,14 +186,14 @@ class MulticomponentPopulation:
 
     def _assign_spectral_running(self, dict):
         """
-        Assigns the spectral_running to -100 for all components
+        Assigns the spectral_running to a random integer between -500 and -100
 
         returns:
         - dict (dict): dict of event with spectral_running(s).
         """
         num_components = dict["num_components"]
 
-        dict["spectral_running"] = list(np.zeros(num_components) - 100.)
+        dict["spectral_running"] = list(np.random.randint(-600,-50,size=num_components).astype('float64'))
 
         return dict
     
