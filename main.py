@@ -89,7 +89,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1., scale = 0.5, size = num_components)))
+        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1., scale = 0.25, size = num_components)))
 
         return dict
 
