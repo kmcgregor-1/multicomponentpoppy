@@ -1,6 +1,7 @@
 import numpy as np
 from fitburst.analysis.model import SpectrumModeler
 import matplotlib.pyplot as plt
+from rfi import RFI
 import json
 
 with open("./examples/sample_pop", 'r') as sample_pop:
@@ -10,7 +11,7 @@ freqs = np.linspace(400.,800.,1024) # array of frequency labels, in MHz
 times = np.arange(0,100,0.983) # array of timestamps, in milliseconds
 
 # define dictiomary containing parameter values.
-
+'''
 burst_parameters = {                                                     
     "amplitude"            : [1.5,1.], 
     "arrival_time"         : [40.,50.],
@@ -23,6 +24,7 @@ burst_parameters = {
     "spectral_index"       : [10.,10.],
     "spectral_running"     : [-100.,-100.],
 }
+'''
 
 # now instantiate the SpectrumModeler for a three-component model.
 def generate_spectrum(bps):
@@ -38,17 +40,27 @@ def generate_spectrum(bps):
     return spectrum_model
 
 burst_num = 0
+
 for event in multicomponent_pop[:5]:
 
-    fig, ax = plt.subplots()
+    fig, ax = plt.subplots(figsize=(5,8))
 
-    ax.imshow(generate_spectrum(event), extent=[0,100, 400, 800],aspect='auto')
+    spectrum = generate_spectrum(event)
+
+    RFI = RFI(spectrum)
+    mask = RFI.generate_mask(spectrum)
+
+    spectrum_with_noise_RFI = (spectrum + 4*np.random.rand(1024, 102))*mask
+
+    ax.imshow(spectrum_with_noise_RFI, extent=[0,100, 400, 800],aspect='auto')
+
+    print(np.max(spectrum))
 
     ax.set_xlabel("Time (ms)")
     ax.set_ylabel("Frequency (MHz)")
 
     plt.tight_layout()
-    plt.savefig("./model_spectra/model_burst_"+str(burst_num)+".png")
+    plt.savefig("./model_spectra/model_burst_"+str(burst_num)+".pdf")
     burst_num += 1
 
 

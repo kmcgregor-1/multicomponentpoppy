@@ -102,7 +102,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["amplitude"] = list(np.zeros(num_components) + 1)
+        dict["amplitude"] = list(np.random.randint(1,2,size=num_components).astype('float64'))
 
         return dict
 
