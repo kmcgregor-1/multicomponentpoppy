@@ -1,4 +1,5 @@
 import numpy as np
+import os
 
 class RFI:
     def __init__(self, spectrum_model, masktype = None):
@@ -19,6 +20,10 @@ class RFI:
             
             mask[:,:] = 1.
 
+        if os.path.exists(self.masktype):
+            
+            mask[:,:] = 1. #open profile and load in as mask
+            assert(np.shape(self.spectrum_model) == np.shape(mask))
+
         return mask
     
-
