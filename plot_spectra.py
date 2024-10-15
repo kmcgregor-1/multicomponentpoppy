@@ -54,7 +54,7 @@ for event in multicomponent_pop[:5]:
 
     ax.imshow(spectrum_with_noise_RFI, extent=[0,100, 400, 800],aspect='auto')
 
-    print(np.max(spectrum))
+    #print(np.max(spectrum))
 
     ax.set_xlabel("Time (ms)")
     ax.set_ylabel("Frequency (MHz)")

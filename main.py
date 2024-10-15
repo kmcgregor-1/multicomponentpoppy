@@ -56,7 +56,7 @@ class MulticomponentPopulation:
         returns:
         - events_dict_array (array): array of initialized event parameter dicts.
         """
-        components_array_all = np.random.randint(1, 5, size = self.n_bursts)
+        components_array_all = np.random.randint(1, 10, size = self.n_bursts)
 
         events_dict_array = []
         for i in range(self.n_bursts):
@@ -89,7 +89,7 @@ class MulticomponentPopulation:
         """
         num_components = dict["num_components"]
 
-        dict["burst_width"] = list(np.abs(np.random.normal(loc = 1., scale = 0.25, size = num_components)))
+        dict["burst_width"] = list(np.abs(np.random.lognormal(mean = 0.4, sigma = 0.25, size = num_components)))
 
         return dict
 
